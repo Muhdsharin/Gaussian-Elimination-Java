@@ -1,7 +1,5 @@
 # Gaussian-Elimination-Java
 
-# Gaussian Elimination Solver (Java)
-
 ## Overview
 This program implements the Gaussian Elimination algorithm to solve systems of linear equations.
 
